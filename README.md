@@ -3,6 +3,5 @@
 > DSA
 
 - [LAB 01 - Dashboard de vendas](./DSA/CAP02%20-%20LAB%2001/lab01.md)
-
-- [LAB 02]()
+- [LAB 02 - DASHBOARD DE VENDAS,CUSTO, MARGEM DE LUCRO E KPI](./DSA/CAP03%20-%20LAB%2002/lab02.md)
 - [LAB 03]()
