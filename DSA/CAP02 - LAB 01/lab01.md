@@ -1,6 +1,6 @@
 # LAB 01 - DASHBOARD DE VENDAS
 
-![Dashboard](./image.png)
+![Dashboard](image.png)
 
 
 > Nosso Dashboard deve responder as perguntas abaixo:
