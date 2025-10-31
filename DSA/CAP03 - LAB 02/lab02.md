@@ -5,4 +5,6 @@
 
 > Nosso Dashboard deve responder as perguntas abaixo:
 
-1. 
+1. Obter Custo
+2. Margem de Lucro
+3. KPI
