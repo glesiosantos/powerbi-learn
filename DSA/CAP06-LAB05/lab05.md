@@ -19,3 +19,17 @@
 6. **Avaliação de desempenho:** mede a avaliação do funcionário em um ciclo de trabalho, normalmente 6 meses ou 12 meses.
 7. **Nível de absenteísmo:** mede a frequência com que os funcionários faltam ao trabalho, o que pode indicar problemas com o ambiente de trabalho ou saúde dos funcionários.
 8. **Nível  de  engajamento:**  escala  que  define  quão  engajados  os  funcionários estão, normalmente medida  com  base  nonível  de  absenteísmo, pontualidade,  avaliação  de desempenho,etc...
+
+> O Dashboard criado deve responder às seguintes perguntasde negócio:
+
+![dashboard rh](./dados/MP3.png)
+
+1. Qual o total de funcionários atualmente na empresa?
+2. Qual otempo médio de experiência dos funcionários (em anos)?
+3. Qual o total e percentual de funcionários do gênero masculino e feminino
+4. Qual a média salarial mensal?
+5. Qual o total de funcionários por função?
+6. Qual o percentual defuncionários disponíveis para fazer hora extra?
+7. Qual onível de envolvimento dos funcionários no trabalhoconsiderando 4 categorias: Ruim, Baixo, Médio e Alto?
+
+Este item não deve estar no Dashboard,mas precisa ser calculado: Qual o total e o percentual de funcionários que devem receber promoção? Considere a coluna “Anos Desde a última Promoção”com a seguinte regra: Se o funcionário tiver 5 anos ou mais desde  a última  promoção,  deveter  a  promoção  considerada.  Caso  contrário,apromoção não deve ser considerada agora.
